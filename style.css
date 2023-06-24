@@ -1,0 +1,45 @@
+h3 {
+  text-align: center;
+  color: crimson;
+  font-size: large;
+}
+.skill-header {
+  text-align: left;
+}
+.skill-container {
+  border: solid black;
+  width: 400px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 16px;
+  margin-bottom: 8px;
+}
+.Nav-bar {
+  border: solid crimson;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 16px;
+  width: 220px;
+  margin-top: 8px;
+}
+.Experience-container {
+  border: solid black;
+  width: 400px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 16px;
+  margin-bottom: 8px;
+}
+.Contact-container {
+  border: solid black;
+  width: 400px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 16px;
+  margin-bottom: 8px;
+}
+h2 {
+  text-align: left;
+  color: crimson;
+  font-size: large;
+}
